@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "bioty",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"chrono": "cpp"
+		}
+	}
+}
